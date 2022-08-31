@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## SouthWest Jiaotong University
+This is a non-official orgainization for all people in SWJTU.
 <!--
 
 **Here are some ideas to get you started:**
@@ -10,3 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+Everyone can contribute to this orginization if you want!
+
+For more details, head to [this wiki](https://github.com/South-West-Jiaotong-University/.github/wiki)!
